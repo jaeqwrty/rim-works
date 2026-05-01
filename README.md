@@ -64,21 +64,3 @@ Admins get a dedicated staff portal to manage orders, verify payments, and keep 
 | 🚐 Minivan | Passenger Van |
 | 🛻 Pickup Truck | Light Commercial |
 
----
-
-## 🎨 Available Rim Finishes
-
-| Finish | Description |
-|--------|-------------|
-| Matte | Clean and understated |
-| Gloss | Classic shine |
-| Chrome | Bold and flashy |
-| Brushed | Industrial and modern |
-
----
-
-<div align="center">
-
-Built with 🤍 for the streets of the Philippines 🇵🇭
-
-</div>
